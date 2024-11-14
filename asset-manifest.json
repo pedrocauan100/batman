@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/batman/static/css/main.7ed272b2.css",
+    "main.js": "/batman/static/js/main.fb9b13c6.js",
+    "static/js/453.76c56da7.chunk.js": "/batman/static/js/453.76c56da7.chunk.js",
+    "index.html": "/batman/index.html",
+    "main.7ed272b2.css.map": "/batman/static/css/main.7ed272b2.css.map",
+    "main.fb9b13c6.js.map": "/batman/static/js/main.fb9b13c6.js.map",
+    "453.76c56da7.chunk.js.map": "/batman/static/js/453.76c56da7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ed272b2.css",
+    "static/js/main.fb9b13c6.js"
+  ]
+}
